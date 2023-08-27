@@ -1,0 +1,10 @@
+.Product{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.productCategory{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
